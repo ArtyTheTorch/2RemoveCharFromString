@@ -1,0 +1,16 @@
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\2RemoveCharFromString\2RemoveCharFromString\obj\x86\Debug\2RemoveCharFromString.csprojResolveAssemblyReference.cache
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\2RemoveCharFromString\2RemoveCharFromString\obj\x86\Debug\_2RemoveCharFromString.Form1.resources
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\2RemoveCharFromString\2RemoveCharFromString\obj\x86\Debug\_2RemoveCharFromString.Properties.Resources.resources
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\2RemoveCharFromString\2RemoveCharFromString\obj\x86\Debug\2RemoveCharFromString.csproj.GenerateResource.Cache
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\2RemoveCharFromString\2RemoveCharFromString\bin\Debug\2RemoveCharFromString.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\2RemoveCharFromString\2RemoveCharFromString\bin\Debug\2RemoveCharFromString.pdb
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\2RemoveCharFromString\2RemoveCharFromString\obj\x86\Debug\2RemoveCharFromString.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\2RemoveCharFromString\2RemoveCharFromString\obj\x86\Debug\2RemoveCharFromString.pdb
+C:\Users\GARRET\Documents\GitHub\2RemoveCharFromString\2RemoveCharFromString\obj\x86\Debug\2RemoveCharFromString.exe
+C:\Users\GARRET\Documents\GitHub\2RemoveCharFromString\2RemoveCharFromString\obj\x86\Debug\2RemoveCharFromString.pdb
+C:\Users\GARRET\Documents\GitHub\2RemoveCharFromString\2RemoveCharFromString\bin\Debug\2RemoveCharFromString.exe
+C:\Users\GARRET\Documents\GitHub\2RemoveCharFromString\2RemoveCharFromString\bin\Debug\2RemoveCharFromString.pdb
+C:\Users\GARRET\Documents\GitHub\2RemoveCharFromString\2RemoveCharFromString\obj\x86\Debug\2RemoveCharFromString.csprojResolveAssemblyReference.cache
+C:\Users\GARRET\Documents\GitHub\2RemoveCharFromString\2RemoveCharFromString\obj\x86\Debug\_2RemoveCharFromString.Form1.resources
+C:\Users\GARRET\Documents\GitHub\2RemoveCharFromString\2RemoveCharFromString\obj\x86\Debug\_2RemoveCharFromString.Properties.Resources.resources
+C:\Users\GARRET\Documents\GitHub\2RemoveCharFromString\2RemoveCharFromString\obj\x86\Debug\2RemoveCharFromString.csproj.GenerateResource.Cache
